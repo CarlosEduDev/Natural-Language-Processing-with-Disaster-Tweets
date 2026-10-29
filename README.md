@@ -31,7 +31,6 @@ Este repositório contém uma solução para a competição **"Natural Language 
 │   └── test.csv           # Dataset de teste (Kaggle)
 ├── notebooks/
 │   ├── 01_baseline_tfidf.ipynb     # Modelo baseline (TF-IDF + Logistic Regression)
-│   └── 02_deberta_finetuning.ipynb # Fine-tuning com Transformer (DeBERTa-v3)
 ├── submissions/
 │   ├── submission_baseline.csv
 │   └── submission_deberta.csv
